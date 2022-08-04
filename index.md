@@ -7,3 +7,5 @@
 
 
 [My page](/about/)
+
+kool
