@@ -27,4 +27,5 @@ fields:
       format: markdown
   label: Body
 pages:
+- Posts/sdfgsdf.md
 - _posts/it-s-a-blog.md
