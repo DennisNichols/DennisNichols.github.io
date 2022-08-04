@@ -2,7 +2,7 @@
 permalink: "/about/"
 
 ---
-\[Image\](/uploads/123472993_39655_5176788839_2128438677868509291_n.jpg)
+![Image](/uploads/123472993_39655_5176788839_2128438677868509291_n.jpg)
 
 [Linkedin](https://www.linkedin.com/in/dennis-nichols-b94186111/ "https://www.linkedin.com/in/dennis-nichols-b94186111/")
 
