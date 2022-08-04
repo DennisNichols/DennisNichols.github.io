@@ -3,3 +3,9 @@ title: d3nhack
 description: something useful... hopefully!
 url: 'https//www.d3nhack.com/' # your main domain
 baseurl: '' # if you're using custom domain keep this blank 
+author:
+  name: Dennis Nichols
+  email: dennisraynichols@gmail.com
+  url: d3nhack.com
+owner: Dennis Nichols
+year: 2022
