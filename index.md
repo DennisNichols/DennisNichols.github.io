@@ -6,4 +6,4 @@
 ![Image](/uploads/capture.PNG)
 
 
-[About!](/about/)
+[My page](/about/)
