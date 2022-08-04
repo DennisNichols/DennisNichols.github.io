@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 title: d3nhack
 description: something useful... hopefully!
+url: 'https//www.d3nhack.com/' # your main domain
+baseurl: '' # if you're using custom domain keep this blank 
