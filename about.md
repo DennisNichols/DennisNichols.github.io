@@ -6,13 +6,13 @@ permalink: "/about/"
 
 [https://www.linkedin.com/in/dennis-nichols-b94186111/](https://www.linkedin.com/in/dennis-nichols-b94186111/ "https://www.linkedin.com/in/dennis-nichols-b94186111/")
 
-# Education
+# **Education**
 
 ## Wilmington University (2017)
 
 > Bachelors of Science in Computer and Network Security
 
-# Work
+# **Work**
 
 ## Vanguard (2017-Current)
 
@@ -26,6 +26,6 @@ permalink: "/about/"
 
 > Graphic Design
 
-# Certifications
+# **Certifications**
 
 > CISSP Certified (2022)
