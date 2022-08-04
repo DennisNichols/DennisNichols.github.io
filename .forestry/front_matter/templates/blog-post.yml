@@ -26,3 +26,5 @@ fields:
     schema:
       format: markdown
   label: Body
+pages:
+- post.md
