@@ -1,3 +1,7 @@
+---
+permalink: /about/
+---
+
 -27
 -Network Security Engineer
 -CISSP Certified
