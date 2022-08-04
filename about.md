@@ -6,34 +6,26 @@ permalink: "/about/"
 
 [https://www.linkedin.com/in/dennis-nichols-b94186111/](https://www.linkedin.com/in/dennis-nichols-b94186111/ "https://www.linkedin.com/in/dennis-nichols-b94186111/")
 
-\-Network Security Engineer
+# Education
 
-\-CISSP Certified
+## Wilmington University (2017)
 
-\-Fan of Global Networking
+> Bachelors of Science in Computer and Network Security
 
-\-Packet Hunter  
-  
-\# Education
+# Work
 
-\## Wilmington University (2017)
+## Vanguard (2017-Current)
 
->Bachelors of Science in Computer and Network Security
+> Network Security Engineer
 
-\# Jobbles
+## SSD Technology Partners (2014-2017)
 
-\## Vanguard (2017-Current)
+> Network Operations Support
 
->Network Security Engineer
+## Mayors Office Wilmington (2014)
 
-\## SSD Technology Partners (2014-2017)
+> Graphic Design
 
->Network Operations Support
+# Certifications
 
-\## Mayors Office Wilmington (2014)
-
->Graphic Design
-
-\# Certifications
-
->CISSP Certified (2022)
+> CISSP Certified (2022)
