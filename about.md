@@ -1,5 +1,6 @@
 ---
 permalink: "/about/"
+published: false
 
 ---
 \[Image\](/uploads/123472993_39655_5176788839_2128438677868509291_n.jpg_
